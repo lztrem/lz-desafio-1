@@ -1,1 +1,1 @@
-# lz-desafio-1
+# Desafio-02-JS
